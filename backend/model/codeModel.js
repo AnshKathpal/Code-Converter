@@ -8,7 +8,6 @@ const codeSchema = new mongoose.Schema({
       },
       generatedLanguage : {
         type: String,
-        required: true,
       },
       generatedCode: {
         type: String,
