@@ -219,7 +219,6 @@ export const Converter = () => {
           justify="space-evenly"
           width="45%"
           bg="rgb(30,30,30)"
-          border = "1px solid red"
         >
           <Flex
             justify="space-evenly"
